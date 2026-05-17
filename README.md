@@ -86,8 +86,10 @@ python test.py --dataset 'regdb' --resume '../save_model/RegDB_best_trial_1.pth'
 
   - `--tvsearch`:  whether thermal to visible search  True(1) or False(2).
 
-
-
+### 6. Result tables
+![SYSU](img/image2.png)
+![RegDB](img/image3.png)
+![LLCM](img/image4.png)
 ### 6. Citation
 
 Most of the code of our backbone are borrowed from [PMT](https://github.com/hulu88/PMT).
