@@ -90,7 +90,7 @@ python test.py --dataset 'regdb' --resume '../save_model/RegDB_best_trial_1.pth'
 ![SYSU](img/image2.png)
 ![RegDB](img/image3.png)
 ![LLCM](img/image4.png)
-### 6. Citation
+### 7. Citation
 
 Most of the code of our backbone are borrowed from [PMT](https://github.com/hulu88/PMT).
 
@@ -116,7 +116,7 @@ Please cite the following paper in your publications if it is helpful:
 
 ```
 
-###  7. References.
+###  8. References.
 
 [1] D. T. Nguyen, H. G. Hong, K. W. Kim, and K. R. Park. Person recognition system based on a combination of body images from visible light and thermal cameras. Sensors, 17(3):605, 2017.
 
