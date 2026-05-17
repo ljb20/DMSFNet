@@ -5,7 +5,7 @@ Pytorch code for paper "**DMSFNet: Dual-stage Modality-guided Frequency Suppress
 The complete code will be released only after we receive the official notice of acceptance.
 
 **Visible-Infrared Person Re-identifification**
-
+![](img/image1.png)
 ### 1. Results
 We adopt the Transformer-based ViT-Base/16 and CNN-based AGW [3] as backbone respectively.
 
