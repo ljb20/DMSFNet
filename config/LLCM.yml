@@ -1,0 +1,19 @@
+DATASET: 'llcm'
+
+START_EPOCH: 1
+MAX_EPOCH: 34
+
+BATCH_SIZE: 32
+NUM_POS: 4
+STRIDE_SIZE: [12,12]
+FREQUENCY_KEEP: 18
+
+METHOD: 'PMT'  # 'PMT' or 'base'
+PL_EPOCH: 6
+MSEL: 0.5
+DCL: 0.5
+MARGIN: 0.1
+cmsm: 1.00
+tri2: 1.00
+k1: 1
+k2: 1
