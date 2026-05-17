@@ -1,6 +1,6 @@
 # DMSFNet
    
-Pytorch code for paper "**DMSFNet: Dual-stage Modality-guided Frequency Suppression and Semantic Fusion for Visible-Infrared Person Re-Identification**
+Pytorch code for paper "**DMSFNet: Dual-stage Modality-guided Frequency Suppression and Semantic Fusion for Visible-Infrared Person Re-Identification**"
 
 The complete code will be released only after we receive the official notice of acceptance.
 
