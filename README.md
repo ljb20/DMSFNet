@@ -99,19 +99,22 @@ Thanks a lot for the author's contribution.
 Please cite the following paper in your publications if it is helpful:
 
 ```
-@article{lu2022learning,
-  title={Learning Progressive Modality-shared Transformers for Effective Visible-Infrared Person Re-identification},
-  author={Lu, Hu and Zou, Xuezhang and Zhang, Pingping},
-  journal={arXiv preprint arXiv:2212.00226},
-  year={2022}
+@article{xiong2026dmsfnet,
+  title={DMSFNet: Dual-stage Modality-guided Frequency Suppression and Semantic Fusion for Visible-Infrared Person Re-Identification},
+  author={Xiong, Mingfu and Liang, Jingbang and Hu, Ruimin and Oh, Hayoung and Del Ser, Javier and Muhammad, Khan},
+  journal={Information Fusion},
+  pages={104808},
+  year={2026},
+  publisher={Elsevier}
 }
 
-@inproceedings{he2021transreid,
-  title={Transreid: Transformer-based object re-identification},
-  author={He, Shuting and Luo, Hao and Wang, Pichao and Wang, Fan and Li, Hao and Jiang, Wei},
-  booktitle={Proceedings of the IEEE/CVF international conference on computer vision},
-  pages={15013--15022},
-  year={2021}
+@article{xiong20264snet,
+  title={4SNet: Spatial and Spectrum Self-adaptive Synergy Network for Visible-Infrared Person Re-identification},
+  author={Xiong, Mingfu and Luo, Feiyang and Huang, Junjie and Guo, Yifei and Alotaibi, Aziz and Bakshi, Sambit and Del Ser, Javier and Muhammad, Khan},
+  journal={Pattern Recognition},
+  pages={113966},
+  year={2026},
+  publisher={Elsevier}
 }
 
 ```
