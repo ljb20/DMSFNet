@@ -107,15 +107,6 @@ Please cite the following paper in your publications if it is helpful:
   publisher={Elsevier}
 }
 
-@article{xiong20264snet,
-  title={4SNet: Spatial and Spectrum Self-adaptive Synergy Network for Visible-Infrared Person Re-identification},
-  author={Xiong, Mingfu and Luo, Feiyang and Huang, Junjie and Guo, Yifei and Alotaibi, Aziz and Bakshi, Sambit and Del Ser, Javier and Muhammad, Khan},
-  journal={Pattern Recognition},
-  pages={113966},
-  year={2026},
-  publisher={Elsevier}
-}
-
 ```
 
 ###  8. References.
